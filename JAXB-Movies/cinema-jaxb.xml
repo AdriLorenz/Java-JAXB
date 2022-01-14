@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cinema>
+    <billboard>
+        <movie>
+            <name>Spiderman: No Way Home</name>
+            <director>Jon Watts</director>
+            <releaseDate>2021</releaseDate>
+            <genre>action</genre>
+            <company>Marvel</company>
+        </movie>
+        <movie>
+            <name>Avengers: Infinity War</name>
+            <director>Russo Brothers</director>
+            <releaseDate>2018</releaseDate>
+            <genre>action</genre>
+            <company>Marvel</company>
+        </movie>
+    </billboard>
+    <name>Fraport Bookstore</name>
+    <location>Frankfurt Airport</location>
+    <numberOfRooms>10</numberOfRooms>
+</cinema>
